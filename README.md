@@ -62,4 +62,4 @@ plt.show()
         Energy consumption forecasting ⚡
         Climate detection
 
-AUTHORED BY DEEREJ C
+AUTHOR : DEEREJ C

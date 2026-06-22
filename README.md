@@ -1,12 +1,15 @@
 # weather_pattern_analysis
 USING DATA ANALYSIS(BASIC LEVEL)
 DATASET : kaggle
-TECHNOLOGIES USES :1.python
 
+TECHNOLOGIES USES :1.python
                    2.pandas
                    3.matplotlib
+                   
 
 PROJECT OVERVIEW: this project predicts the weather pattern analysis
+
+
 🧾 Sample Dataset
 Date 	Temperature (°C) 	Rainfall (mm)
 2024-01-01 	28 	0
@@ -17,9 +20,10 @@ Date 	Temperature (°C) 	Rainfall (mm)
 🧠 Analysis Goal
 
 Identify:
-
     Temperature trend over time
     Relationship between rainfall and temperature
+
+    
 
 💻 Example Code (Python)
 
@@ -51,12 +55,11 @@ plt.show()
     Helps understand short-term weather fluctuations
 
 🔍 Interpretation
-
     Warmer days tend to follow dry conditions
-
     Rainfall may temporarily reduce temperature
-
     This pattern can be useful for:
         Agriculture planning 🌾
         Energy consumption forecasting ⚡
         Climate detection
+
+AUTHORED BY DEEREJ C
